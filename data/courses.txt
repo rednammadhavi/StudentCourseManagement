@@ -1,0 +1,1 @@
+CS101,Java Basics,Intro to Java,8,3000
